@@ -1,0 +1,90 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01/04/2016, 17:25:06
+    Author     : lucas
+*/
+th {
+    font-family: arial;
+    color: white;
+}
+
+body {
+    background-image: url("../img/backrock.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+}
+
+.botoes{
+    width: 100px;
+    height: 100px;
+}
+
+.caixão{
+    position: absolute;
+    width: 450px;
+    height: 100px;
+    /*left: 329px;
+    top: 490px;*/
+    margin-left: 25%;
+    margin-top: 21%;
+    
+    
+}
+
+.caixa{
+    width: 76px;
+    height: 59px
+}
+
+.caixa1 {
+    position: absolute;
+    background: green;
+    left: 121px;
+    top: 0px;
+    border-radius: 100%;
+}
+
+.caixa2 {
+    position: absolute;
+    background: red;
+    left: 205px;
+    top: 0px;
+    border-radius: 100%;
+}
+
+.caixa3 {
+    position: absolute;
+    background: yellow;
+    left: 287px;
+    top: 0px;
+    border-radius: 100%;
+}
+
+.caixa4 {
+    position: absolute;
+    background: blue;
+    left: 373px;
+    top: 0px;
+    border-radius: 100%;
+}
+
+.caixa5 {
+    position: absolute;
+    background: #FF6600;
+    left: 456px;
+    top: 0px;
+    border-radius: 100%;
+}
+
+.braço {
+    text-align:center;
+    margin-top: -4%;
+}
+
+.audio {
+    opacity: 0;
+}
