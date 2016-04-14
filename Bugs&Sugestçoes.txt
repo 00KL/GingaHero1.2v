@@ -1,0 +1,10 @@
+
+Bug: Os atributos da página se desalinham em resoluções distintas
+
+Para solucionar o problema com a compatibilidade do gingahero 
+podemos por todos os elementos que variam em um único DIV 
+e colocar para que todos os elementos 
+variem segundo a variação do div(algo como uma dependência).
+
+Bug: Ao clicar duas teclas uma delas permanece preta
+Ainda não há solução pensada para esse problema.
