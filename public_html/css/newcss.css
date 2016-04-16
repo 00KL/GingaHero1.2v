@@ -27,17 +27,13 @@ body {
     position: absolute;
     width: 450px;
     height: 100px;
-    /*left: 329px;
-    top: 490px;*/
-    margin-left: 25%;
-    margin-top: 21%;
-    
-    
+    left: 349px;
+    top: 490px;
 }
 
 .caixa{
-    width: 76px;
-    height: 59px
+    width: 70px;
+    height: 45px
 }
 
 .caixa1 {

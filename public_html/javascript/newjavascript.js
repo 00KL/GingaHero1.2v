@@ -4,33 +4,33 @@
  * and open the template in the editor.
  */
 function tecla() {
-	var cor, tecla;
+	var cor, tecla, caixa;
  
 	switch (event.keyCode ) {
 		case 97:
 			cor = "green";
 			tecla = "1";
-			document.getElementById("5").play();
+			document.getElementById("som1").play();
                         break
 		case 115:
 			cor = "red";
 			tecla = "2";
-			document.getElementById("7").play();
+			document.getElementById("som2").play();
                         break
 		case 100:
 			cor = "yellow";
 			tecla = "3";
-			document.getElementById("8").play();
+			document.getElementById("som3").play();
                         break
 		case 102:
 			cor = "blue";
 			tecla = "4";
-                        document.getElementById("9").play();
+                        document.getElementById("som4").play();
 			break
                 case 103:
 			cor = "#FF6600";
 			tecla = "6";
-                        document.getElementById("10").play();
+                        document.getElementById("som5").play();
 			break
 	}	
 
